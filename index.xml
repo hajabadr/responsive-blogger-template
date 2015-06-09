@@ -4,7 +4,7 @@
     <head>
         <meta charset='utf-8'/>
         <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'/>
-        <meta content='width=device-width' name='viewport'/>
+        <meta content='width=device-width, initial-scale=1' name='viewport'/>
         <b:include data='blog' name='all-head-content'/>
         <title><data:blog.pageTitle/></title>
         <b:skin><![CDATA[]]></b:skin>
@@ -537,4 +537,7 @@
 
 <b:section-contents id='sidebar-right-1'>
 <b:widget id='Profile1' locked='false' title='About Me' type='Profile'/>
-</b:section-contents><b:section-contents id='footer-1'/><b:section-contents id='footer-2-1'/><b:section-contents id='footer-2-2'/></html>
+</b:section-contents><b:section-contents id='footer-1'/>
+<b:section-contents id='footer-2-1'/>
+<b:section-contents id='footer-2-2'/>
+</html>
